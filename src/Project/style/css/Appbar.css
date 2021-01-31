@@ -1,0 +1,15 @@
+.App-logo{
+    width: 90px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.iconname{
+    color: '#6D6969';
+    font-size: 18px;
+    font-style: bold;
+    margin-top: 12px;
+}
+.smalliconname{
+    margin-top: 13px;
+    margin-left: -10px;
+}
